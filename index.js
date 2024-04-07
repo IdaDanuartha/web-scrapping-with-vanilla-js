@@ -23,4 +23,4 @@ const main = async() => {
     console.log(allArticles)
 }
 
-main()
+main() 
