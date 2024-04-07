@@ -21,6 +21,8 @@ const main = async() => {
     })
 
     console.log(allArticles)
+
+    await browser.close()
 }
 
 main() 
